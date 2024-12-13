@@ -32,3 +32,7 @@
    - 后台运行，新安卓系统不能长留后台
    - 旧安卓可以保持开机启动
    ```
+<div align="center">
+  <img src="image/android4.3.png" width="200" alt="截图1">
+  <img src="image/android14.png" width="200" alt="截图2">
+</div>
