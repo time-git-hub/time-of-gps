@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">system server</string>
+    <string name="notification_title">服务正在运行</string>
+    <string name="notification_text">已退出</string>
+</resources>
